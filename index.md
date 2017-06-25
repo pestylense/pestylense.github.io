@@ -35,4 +35,5 @@ Posts and stuff
 Current Projects
 ================
 [Canterlot Avenue](http://canterlotavenue.com/)
+
 [Remz Gaming](http://remzgaming.com/)
