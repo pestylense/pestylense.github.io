@@ -10,11 +10,9 @@ Contact
 <table><tr><td markdown="1">
 ![Profile](/images/icon.png)
 </td><td markdown="1"> 
-[pestylense@poniverse.net](https://poniverse.net)
-
-[Pestylense#6961](https://discord.gg/Poniverse)
-
-[Pestylense on Github](https://github.com/pestylense)
+[pestylense@poniverse.net](https://poniverse.net)<br />
+[Pestylense#6961](https://discord.gg/Poniverse)<br />
+[Pestylense on Github](https://github.com/pestylense)<br />
 </td></tr></table>
 </div>
 
@@ -34,6 +32,5 @@ Posts and stuff
 
 Current Projects
 ================
-[Canterlot Avenue](http://canterlotavenue.com/)
-
-[Remz Gaming](http://remzgaming.com/)
+[Canterlot Avenue](http://canterlotavenue.com/)<br />
+[Remz Gaming](http://remzgaming.com/)<br />
