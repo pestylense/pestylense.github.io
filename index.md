@@ -9,9 +9,10 @@ Contact
 <div id="profile">
 <table><tr><td markdown="1">
 ![Profile](/images/icon.png)
-</td><td markdown="1">
-[@Pestylense](https://twitter.com/Pestylense)  
-[pestylense@poniverse.net](pestylense@poniverse.net)  
+</td><td markdown="1"> 
+[pestylense@poniverse.net](https://poniverse.net)
+[Pestylense#6961](https://discord.gg/Poniverse)
+[Pestylense on Github](https://github.com/pestylense)
 </td></tr></table>
 </div>
 
