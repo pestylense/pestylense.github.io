@@ -11,7 +11,9 @@ Contact
 ![Profile](/images/icon.png)
 </td><td markdown="1"> 
 [pestylense@poniverse.net](https://poniverse.net)
+
 [Pestylense#6961](https://discord.gg/Poniverse)
+
 [Pestylense on Github](https://github.com/pestylense)
 </td></tr></table>
 </div>
